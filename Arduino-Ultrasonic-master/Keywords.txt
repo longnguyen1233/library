@@ -1,0 +1,22 @@
+#######################################
+# Syntax Coloring Map For Chibuike's Arduino Ultrasonic Sensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Ultrasonic	KEYWORD1	UltrasonicLibrary
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+
+#######################################
+#
+
+getDistance	KEYWORD2	UltrasonicLibrary
+
+#######################################
+#
